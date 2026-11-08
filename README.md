@@ -1,5 +1,4 @@
 <meta name="google-site-verification" content="TnFO-WIrrrNuGd_D36AThhaGQvKFqYaf8ajoYzNFIPU" />
-
 **Author:** [Matthew (Matt) Wiecha](https://github.com) — Urban Planner & Transportation Researcher
 
 # NYC Citi Bike Station Activity and Imbalance (June 2026)
