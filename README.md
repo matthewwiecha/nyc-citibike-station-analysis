@@ -1,3 +1,5 @@
+**Author:** [Matthew (Matt) Wiecha](https://github.com) — Urban Planner & Transportation Researcher
+
 # NYC Citi Bike Station Activity and Imbalance (June 2026)
 
 **Matthew Wiecha** · Urban planning and transportation data analysis
